@@ -1,4 +1,6 @@
 # HyggeApp
+<img src="https://i.imgur.com/d0sU8Nx.png" alt="Hygge App" width="200"/>
+
 This is a simple Swift App tutorial. 
 Click on each step to copy and paste code.
 
