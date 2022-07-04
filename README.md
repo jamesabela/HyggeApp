@@ -10,4 +10,4 @@ The final [Swift playground](https://github.com/jamesabela/HyggeApp/blob/main/5%
 
 # More Resources
 * [What is PRIMM](https://www.futurelearn.com/info/courses/secondary-programming-pedagogy/0/steps/68416)
-* [What is Hygge? 📹](https://www.youtube.com/watch?v=qHbOYklJZl4)
+* [What is Hygge?](https://www.youtube.com/watch?v=qHbOYklJZl4)📹
