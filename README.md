@@ -10,6 +10,8 @@ The full presentation: [Presentation PDF](https://github.com/jamesabela/HyggeApp
 
 The final [Swift playground](https://github.com/jamesabela/HyggeApp/blob/main/5%20Three%20Good%20Things%20Tidied.swiftpm.zip?raw=true)
 
+[Video Edition](https://youtu.be/SzCvHQY39kY)
+
 # More Resources
 * [Apple Teaching Code](https://www.apple.com/my/education/k12/teaching-code/)
 * [What is PRIMM](https://www.futurelearn.com/info/courses/secondary-programming-pedagogy/0/steps/68416)
